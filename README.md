@@ -14,3 +14,8 @@ Copie esta linha de comando e dê enter:
 ```
 git clone https://github.com/eduNsantos/ecodiscover/
 ```
+
+### Pós-download
+Assim que o download finalizar, será criada uma pasta com todos os arquivos necessários para a utilização do site.
+#### Aproveite!!!
+
